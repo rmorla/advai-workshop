@@ -1,5 +1,3 @@
-#2.4
-
 import numpy as np
 from matplotlib import pyplot as plt
 from tensorflow.examples.tutorials.mnist import input_data
